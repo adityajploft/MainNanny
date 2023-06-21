@@ -1,0 +1,8 @@
+<svg id="linkedin" xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+  <circle id="Ellipse_38" data-name="Ellipse 38" cx="19" cy="19" r="19" fill="#007bb5"/>
+  <g id="Group_62" data-name="Group 62" transform="translate(8.313 7.125)">
+    <rect id="Rectangle_77" data-name="Rectangle 77" width="5" height="17" transform="translate(-0.313 5.875)" fill="#fff"/>
+    <path id="Path_67" data-name="Path 67" d="M21.905,11c-3.314,0-3.884,1.209-4.155,2.375V11H13V27.625h4.75v-9.5a2.135,2.135,0,0,1,2.375-2.375A2.143,2.143,0,0,1,22.5,18.125v9.5h4.75V19.313C27.25,14.563,26.631,11,21.905,11Z" transform="translate(-5.875 -5.063)" fill="#fff"/>
+    <circle id="Ellipse_39" data-name="Ellipse 39" cx="2.5" cy="2.5" r="2.5" transform="translate(-0.313 -0.125)" fill="#fff"/>
+  </g>
+</svg>

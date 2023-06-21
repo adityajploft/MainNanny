@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82" height="82" viewBox="0 0 82 82">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.218" x2="0.892" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ea5455"/>
+      <stop offset="1" stop-color="#002b5b"/>
+    </linearGradient>
+    <filter id="Rectangle_115" x="0" y="0" width="82" height="82" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="video_play" transform="translate(-629 -3062)">
+    <g transform="matrix(1, 0, 0, 1, 629, 3062)" filter="url(#Rectangle_115)">
+      <rect id="Rectangle_115-2" data-name="Rectangle 115" width="64" height="64" rx="32" transform="translate(9 3)" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="_928430_go_media_music_play_playing_icon" data-name="928430_go_media_music_play_playing_icon" d="M42.758,23.232,26.75,13.99a1.58,1.58,0,0,0-2.371,1.369V33.843a1.58,1.58,0,0,0,2.371,1.369L42.757,25.97a1.581,1.581,0,0,0,0-2.738Z" transform="translate(637.877 3072.625)" fill="#fff"/>
+  </g>
+</svg>

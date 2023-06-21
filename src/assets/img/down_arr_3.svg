@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="6.836" viewBox="0 0 23 6.836">
+  <g id="down_arr_3" transform="translate(-861 1054)">
+    <path id="Path_88323" data-name="Path 88323" d="M0,0H23V6.836H0Z" transform="translate(861 -1054)" fill="#fff" opacity="0"/>
+    <g id="down_arrow" transform="translate(842.7 -1078.4)">
+      <g id="Icon-Chevron-Left" transform="translate(18.3 24.4)">
+        <path id="Fill-35" d="M-218.7-309.731l.869-.869,5.082,5.125,5.082-5.125.869.869-5.951,5.951-5.951-5.951" transform="translate(218.7 310.6)" fill="#134563"/>
+      </g>
+    </g>
+  </g>
+</svg>

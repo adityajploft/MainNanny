@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="253.056" height="65.869" viewBox="0 0 253.056 65.869">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.135" y1="-0.156" x2="1.083" y2="1.333" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ea5455"/>
+      <stop offset="1" stop-color="#002b5b"/>
+    </linearGradient>
+  </defs>
+  <g id="chat_with_expert" transform="translate(-807.943 -1251.565)">
+    <path id="Rectangle_112" data-name="Rectangle 112" d="M7.5,0h175A22.5,22.5,0,0,1,205,22.5v0A22.5,22.5,0,0,1,182.5,45H7.5A7.5,7.5,0,0,1,0,37.5V7.5A7.5,7.5,0,0,1,7.5,0Z" transform="translate(856 1262)" fill="url(#linear-gradient)"/>
+    <text id="Chat_with_Expert-2" data-name="Chat with Expert" transform="translate(891 1291)" fill="#fff" font-size="17" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Chat with Expert</tspan></text>
+    <g id="Group_71" data-name="Group 71" transform="translate(807.943 1251.565)">
+      <g id="Group_70" data-name="Group 70">
+        <path id="Path_73" data-name="Path 73" d="M7.706,52.644A32.577,32.577,0,1,1,18.4,62.968l-15.9,5.3L7.706,52.644Z" transform="translate(-2.5 -2.397)" fill="#f3f3f3" fill-rule="evenodd"/>
+        <path id="Path_74" data-name="Path 74" d="M9.213,45.506a26.1,26.1,0,1,1,6.575,6.451L5.972,55.229Z" transform="translate(2.087 2.19)" fill="#00a82d" fill-rule="evenodd"/>
+      </g>
+      <path id="Path_75" data-name="Path 75" d="M14.87,30.365A33.123,33.123,0,0,1,7.636,13.629a5.824,5.824,0,0,1,6.273-6.523l.168.017s1.924.514,2.977.8a1.3,1.3,0,0,1,.892.833c.473,1.406,1.591,4.709,2.12,6.262a1.3,1.3,0,0,1-.391,1.406c-.8.672-2.12,1.783-2.943,2.48a1.288,1.288,0,0,0-.343,1.519,26.661,26.661,0,0,0,3.625,5.8,26.612,26.612,0,0,0,5.093,4.551,1.288,1.288,0,0,0,1.557-.082c.827-.693,2.147-1.8,2.943-2.476a1.3,1.3,0,0,1,1.454-.147c1.44.782,4.507,2.442,5.81,3.148a1.29,1.29,0,0,1,.672,1.019c.1,1.087.285,3.07.285,3.07l-.014.168a5.825,5.825,0,0,1-7.49,5.079A33.1,33.1,0,0,1,14.962,30.475l-.093-.11Z" transform="translate(9.872 8.993)" fill="#f3f3f3" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
